@@ -24,6 +24,7 @@ mealList.addEventListener('click', async (e) => {
         }
     }
 });
+// Comment is written to see Github commit
 
 // Function to fetch meals by ingredient
 async function searchMealsByIngredient(ingredient) {
